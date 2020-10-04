@@ -20,8 +20,8 @@ The criteria that the password is able to meet are: <br>
  
  https://ikkhan18.github.io/IK-JSPG-041020/
 
-<img src="screen-1.png" alt="picture of password generator"> <br>
-<img src="screen-2.png" alt="picture of completed password"> <br>
+<img src="screen-1.PNG" alt="picture of password generator"> <br>
+<img src="screen-2.PNG" alt="picture of completed password"> <br>
 
 ## My notes
 
